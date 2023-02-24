@@ -5,8 +5,12 @@
 <br/>
 또한 친화력이 좋아 타인과의 소통과 협업을 통해 목표를 달성하는데 탁월한 능력을 갖추고 있습니다.
 <br/>
-<a href="https://www.instagram.com/james_hasung/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:shalom@handong.ac.kr"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/james_hasung/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="mailto:shalom@handong.ac.kr">
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ## 기술 스택
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
