@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=James's%20github!&fontSize=90)
+
 ## 소개 
 만나서 반갑습니다. 포항에 위치한 한동대학교에서 AI-컴퓨터공학을 전공하는 윤하성입니다.
 <br/>
