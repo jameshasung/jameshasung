@@ -1,6 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=James's%20github!&fontSize=90)
 
+<div align = "center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjameshasung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
 ## 소개 
 <div align="center">
 만나서 반갑습니다. 포항에 위치한 한동대학교에서 AI-컴퓨터공학을 전공하는 윤하성입니다.
@@ -36,9 +39,7 @@
 - 2023.01 ~ 2023.02 (주)가인지캠퍼스 프론트엔드 개발인턴 
 
 
-<div align = "center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjameshasung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  </div>
+
 <!-- #
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameshasung&show_icons=true&theme=tokyonight)
  -->
